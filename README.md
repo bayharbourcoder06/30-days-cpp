@@ -1,4 +1,4 @@
-Tag 1:   1. [Two Sum](twosums.cpp), 9. [Palindrome Number](palindromenumber.cpp), 26. Remove Duplicates from Sorted Array  
+Tag 1:   1. [Two Sum](twosums.cpp), 9. [Palindrome Number](palindromenumber.cpp), 26. [Remove Duplicates from Sorted Array](removeduplicatesfromsortedarray)  
 Tag 2:   27. Remove Element, 28. Implement strStr, 20. Valid Parentheses  
 Tag 3:   21. Merge Two Sorted Lists, 53. Maximum Subarray, 58. Length of Last Word  
 Tag 4:   66. Plus One, 67. Add Binary, 69. Sqrt(x)  
